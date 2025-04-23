@@ -39,7 +39,7 @@ The server loads this into a dictionary for fast lookups.
 ![Screenshot (16)](https://github.com/user-attachments/assets/d26991c9-2476-4b82-8913-0fcb6d2d47d0)
 
 
-### Grading and Completion
+## Grading and Completion
 Received a perfect score (100/100) from the instructor, with full functionality and good documentation.
 
 
