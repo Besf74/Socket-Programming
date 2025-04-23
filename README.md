@@ -3,14 +3,14 @@
 ## Objective
 The following project is a Socket Program developed for a CYSE-250 course to practice Python socket programming in a client-server context. The program allows users to retrieve information regarding each World Series champion, loser, and MVP by inputting year. This interactive experience enforced basic programming concepts while simulating a basic networked communication system.
 
-### Skills Learned
+## Skills Learned
 - Implemented and designed a client-server application with Python sockets.
 - Enhanced understanding of lists, dictionaries, loops, and file I/O operations.
 - Practiced modular programming with functions and organized logic sequence.
 - Gained hands-on experience in sending and receiving data over a network.
 - Improved debugging skills through trial and error in server-client communication.
 
-### Tools Used
+## Tools Used
 - Python (coded in Thonny IDE) for client and server sides.
 - Socket Programming to create TCP communication between two computers.
 - Text Files to save and load World Series data in an optimal way.
