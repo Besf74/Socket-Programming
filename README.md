@@ -1,4 +1,4 @@
-# ⚾ World Series Socket Program
+# World Series Socket Program
 
 ## Objective
 The following project is a Socket Program developed for a CYSE-250 course to practice Python socket programming in a client-server context. The program allows users to retrieve information regarding each World Series champion, loser, and MVP by inputting year. This interactive experience enforced basic programming concepts while simulating a basic networked communication system.
